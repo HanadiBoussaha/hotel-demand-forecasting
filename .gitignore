@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Données brutes volumineuses (à télécharger séparément, voir README)
+data/raw/*
+!data/raw/.gitkeep
+
+# Fichiers système / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Sauvegardes Power BI
+*.pbix.bak
+*~$*

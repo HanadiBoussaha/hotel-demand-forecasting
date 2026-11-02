@@ -482,7 +482,7 @@ The forecast indicates that **City Hotel is expected to experience higher bookin
 
 **Hanadi Boussaha**
 
-Aspiring Data Analyst | Business Intelligence | Power BI | Tableau | SQL | Python
+AI/ Business Intelligence | Power BI | Tableau | SQL | Python
 
 ---
 
